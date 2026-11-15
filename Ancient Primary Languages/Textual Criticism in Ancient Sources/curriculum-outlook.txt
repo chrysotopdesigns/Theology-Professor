@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Textual Criticism in Ancient Sources**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Textual Criticism in Ancient Sources within Ancient Primary Languages practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Textual Criticism in Ancient Sources and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Textual Criticism in Ancient Sources**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Textual Criticism in Ancient Sources, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Textual Criticism in Ancient Sources environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Textual Criticism in Ancient Sources**
+
+**Summary:** Hands-on core techniques of Textual Criticism in Ancient Sources applied to small realistic Ancient Primary Languages projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Textual Criticism in Ancient Sources techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Textual Criticism in Ancient Sources**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Textual Criticism in Ancient Sources work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Textual Criticism in Ancient Sources patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Textual Criticism in Ancient Sources**
+
+**Summary:** How to verify Textual Criticism in Ancient Sources work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Textual Criticism in Ancient Sources work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Textual Criticism in Ancient Sources**
+
+**Summary:** Using Textual Criticism in Ancient Sources inside larger Ancient Primary Languages workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Textual Criticism in Ancient Sources outputs into a larger Ancient Primary Languages workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Textual Criticism in Ancient Sources**
+
+**Summary:** Advanced methods in Textual Criticism in Ancient Sources for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Textual Criticism in Ancient Sources methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Textual Criticism in Ancient Sources**
+
+**Summary:** Making Textual Criticism in Ancient Sources work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Textual Criticism in Ancient Sources work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Textual Criticism in Ancient Sources**
+
+**Summary:** Protecting Textual Criticism in Ancient Sources work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Textual Criticism in Ancient Sources work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Textual Criticism in Ancient Sources**
+
+**Summary:** Making Textual Criticism in Ancient Sources work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Textual Criticism in Ancient Sources work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Textual Criticism in Ancient Sources**
+
+**Summary:** Realistic Ancient Primary Languages case studies using Textual Criticism in Ancient Sources under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Textual Criticism in Ancient Sources results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Textual Criticism in Ancient Sources**
+
+**Summary:** Expert-level judgment in Textual Criticism in Ancient Sources, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Textual Criticism in Ancient Sources work with portfolio-ready proof.

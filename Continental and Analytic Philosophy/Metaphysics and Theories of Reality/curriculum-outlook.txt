@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Metaphysics and Theories of Reality**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Metaphysics and Theories of Reality within Continental and Analytic Philosophy practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Metaphysics and Theories of Reality and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Metaphysics and Theories of Reality**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Metaphysics and Theories of Reality, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Metaphysics and Theories of Reality environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Metaphysics and Theories of Reality**
+
+**Summary:** Hands-on core techniques of Metaphysics and Theories of Reality applied to small realistic Continental and Analytic Philosophy projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Metaphysics and Theories of Reality techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Metaphysics and Theories of Reality**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Metaphysics and Theories of Reality work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Metaphysics and Theories of Reality patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Metaphysics and Theories of Reality**
+
+**Summary:** How to verify Metaphysics and Theories of Reality work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Metaphysics and Theories of Reality work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Metaphysics and Theories of Reality**
+
+**Summary:** Using Metaphysics and Theories of Reality inside larger Continental and Analytic Philosophy workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Metaphysics and Theories of Reality outputs into a larger Continental and Analytic Philosophy workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Metaphysics and Theories of Reality**
+
+**Summary:** Advanced methods in Metaphysics and Theories of Reality for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Metaphysics and Theories of Reality methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Metaphysics and Theories of Reality**
+
+**Summary:** Making Metaphysics and Theories of Reality work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Metaphysics and Theories of Reality work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Metaphysics and Theories of Reality**
+
+**Summary:** Protecting Metaphysics and Theories of Reality work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Metaphysics and Theories of Reality work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Metaphysics and Theories of Reality**
+
+**Summary:** Making Metaphysics and Theories of Reality work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Metaphysics and Theories of Reality work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Metaphysics and Theories of Reality**
+
+**Summary:** Realistic Continental and Analytic Philosophy case studies using Metaphysics and Theories of Reality under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Metaphysics and Theories of Reality results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Metaphysics and Theories of Reality**
+
+**Summary:** Expert-level judgment in Metaphysics and Theories of Reality, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Metaphysics and Theories of Reality work with portfolio-ready proof.

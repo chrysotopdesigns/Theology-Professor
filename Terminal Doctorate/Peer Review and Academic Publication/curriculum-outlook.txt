@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Peer Review and Academic Publication**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Peer Review and Academic Publication within Terminal Doctorate practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Peer Review and Academic Publication and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Peer Review and Academic Publication**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Peer Review and Academic Publication, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Peer Review and Academic Publication environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Peer Review and Academic Publication**
+
+**Summary:** Hands-on core techniques of Peer Review and Academic Publication applied to small realistic Terminal Doctorate projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Peer Review and Academic Publication techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Peer Review and Academic Publication**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Peer Review and Academic Publication work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Peer Review and Academic Publication patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Peer Review and Academic Publication**
+
+**Summary:** How to verify Peer Review and Academic Publication work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Peer Review and Academic Publication work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Peer Review and Academic Publication**
+
+**Summary:** Using Peer Review and Academic Publication inside larger Terminal Doctorate workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Peer Review and Academic Publication outputs into a larger Terminal Doctorate workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Peer Review and Academic Publication**
+
+**Summary:** Advanced methods in Peer Review and Academic Publication for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Peer Review and Academic Publication methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Peer Review and Academic Publication**
+
+**Summary:** Making Peer Review and Academic Publication work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Peer Review and Academic Publication work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Peer Review and Academic Publication**
+
+**Summary:** Protecting Peer Review and Academic Publication work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Peer Review and Academic Publication work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Peer Review and Academic Publication**
+
+**Summary:** Making Peer Review and Academic Publication work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Peer Review and Academic Publication work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Peer Review and Academic Publication**
+
+**Summary:** Realistic Terminal Doctorate case studies using Peer Review and Academic Publication under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Peer Review and Academic Publication results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Peer Review and Academic Publication**
+
+**Summary:** Expert-level judgment in Peer Review and Academic Publication, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Peer Review and Academic Publication work with portfolio-ready proof.

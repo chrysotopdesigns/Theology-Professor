@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Methods and Theories in the Study of Religion**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Methods and Theories in the Study of Religion within Comparative Religion and Global Contexts practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Methods and Theories in the Study of Religion and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Methods and Theories in the Study of Religion**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Methods and Theories in the Study of Religion, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Methods and Theories in the Study of Religion environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Methods and Theories in the Study of Religion**
+
+**Summary:** Hands-on core techniques of Methods and Theories in the Study of Religion applied to small realistic Comparative Religion and Global Contexts projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Methods and Theories in the Study of Religion techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Methods and Theories in the Study of Religion**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Methods and Theories in the Study of Religion work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Methods and Theories in the Study of Religion patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Methods and Theories in the Study of Religion**
+
+**Summary:** How to verify Methods and Theories in the Study of Religion work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Methods and Theories in the Study of Religion work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Methods and Theories in the Study of Religion**
+
+**Summary:** Using Methods and Theories in the Study of Religion inside larger Comparative Religion and Global Contexts workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Methods and Theories in the Study of Religion outputs into a larger Comparative Religion and Global Contexts workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Methods and Theories in the Study of Religion**
+
+**Summary:** Advanced methods in Methods and Theories in the Study of Religion for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Methods and Theories in the Study of Religion methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Methods and Theories in the Study of Religion**
+
+**Summary:** Making Methods and Theories in the Study of Religion work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Methods and Theories in the Study of Religion work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Methods and Theories in the Study of Religion**
+
+**Summary:** Protecting Methods and Theories in the Study of Religion work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Methods and Theories in the Study of Religion work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Methods and Theories in the Study of Religion**
+
+**Summary:** Making Methods and Theories in the Study of Religion work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Methods and Theories in the Study of Religion work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Methods and Theories in the Study of Religion**
+
+**Summary:** Realistic Comparative Religion and Global Contexts case studies using Methods and Theories in the Study of Religion under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Methods and Theories in the Study of Religion results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Methods and Theories in the Study of Religion**
+
+**Summary:** Expert-level judgment in Methods and Theories in the Study of Religion, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Methods and Theories in the Study of Religion work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Salvation, Liberation, and Soteriology**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Salvation, Liberation, and Soteriology within Systematic and Constructive Theology practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Salvation, Liberation, and Soteriology and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Salvation, Liberation, and Soteriology**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Salvation, Liberation, and Soteriology, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Salvation, Liberation, and Soteriology environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Salvation, Liberation, and Soteriology**
+
+**Summary:** Hands-on core techniques of Salvation, Liberation, and Soteriology applied to small realistic Systematic and Constructive Theology projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Salvation, Liberation, and Soteriology techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Salvation, Liberation, and Soteriology**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Salvation, Liberation, and Soteriology work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Salvation, Liberation, and Soteriology patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Salvation, Liberation, and Soteriology**
+
+**Summary:** How to verify Salvation, Liberation, and Soteriology work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Salvation, Liberation, and Soteriology work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Salvation, Liberation, and Soteriology**
+
+**Summary:** Using Salvation, Liberation, and Soteriology inside larger Systematic and Constructive Theology workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Salvation, Liberation, and Soteriology outputs into a larger Systematic and Constructive Theology workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Salvation, Liberation, and Soteriology**
+
+**Summary:** Advanced methods in Salvation, Liberation, and Soteriology for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Salvation, Liberation, and Soteriology methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Salvation, Liberation, and Soteriology**
+
+**Summary:** Making Salvation, Liberation, and Soteriology work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Salvation, Liberation, and Soteriology work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Salvation, Liberation, and Soteriology**
+
+**Summary:** Protecting Salvation, Liberation, and Soteriology work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Salvation, Liberation, and Soteriology work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Salvation, Liberation, and Soteriology**
+
+**Summary:** Making Salvation, Liberation, and Soteriology work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Salvation, Liberation, and Soteriology work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Salvation, Liberation, and Soteriology**
+
+**Summary:** Realistic Systematic and Constructive Theology case studies using Salvation, Liberation, and Soteriology under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Salvation, Liberation, and Soteriology results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Salvation, Liberation, and Soteriology**
+
+**Summary:** Expert-level judgment in Salvation, Liberation, and Soteriology, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Salvation, Liberation, and Soteriology work with portfolio-ready proof.

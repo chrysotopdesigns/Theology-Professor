@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Philosophical Research and Scholarly Dialogue**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Philosophical Research and Scholarly Dialogue within Continental and Analytic Philosophy practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Philosophical Research and Scholarly Dialogue and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Philosophical Research and Scholarly Dialogue**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Philosophical Research and Scholarly Dialogue, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Philosophical Research and Scholarly Dialogue environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Philosophical Research and Scholarly Dialogue**
+
+**Summary:** Hands-on core techniques of Philosophical Research and Scholarly Dialogue applied to small realistic Continental and Analytic Philosophy projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Philosophical Research and Scholarly Dialogue techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Philosophical Research and Scholarly Dialogue**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Philosophical Research and Scholarly Dialogue work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Philosophical Research and Scholarly Dialogue patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Philosophical Research and Scholarly Dialogue**
+
+**Summary:** How to verify Philosophical Research and Scholarly Dialogue work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Philosophical Research and Scholarly Dialogue work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Philosophical Research and Scholarly Dialogue**
+
+**Summary:** Using Philosophical Research and Scholarly Dialogue inside larger Continental and Analytic Philosophy workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Philosophical Research and Scholarly Dialogue outputs into a larger Continental and Analytic Philosophy workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Philosophical Research and Scholarly Dialogue**
+
+**Summary:** Advanced methods in Philosophical Research and Scholarly Dialogue for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Philosophical Research and Scholarly Dialogue methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Philosophical Research and Scholarly Dialogue**
+
+**Summary:** Making Philosophical Research and Scholarly Dialogue work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Philosophical Research and Scholarly Dialogue work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Philosophical Research and Scholarly Dialogue**
+
+**Summary:** Protecting Philosophical Research and Scholarly Dialogue work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Philosophical Research and Scholarly Dialogue work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Philosophical Research and Scholarly Dialogue**
+
+**Summary:** Making Philosophical Research and Scholarly Dialogue work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Philosophical Research and Scholarly Dialogue work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Philosophical Research and Scholarly Dialogue**
+
+**Summary:** Realistic Continental and Analytic Philosophy case studies using Philosophical Research and Scholarly Dialogue under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Philosophical Research and Scholarly Dialogue results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Philosophical Research and Scholarly Dialogue**
+
+**Summary:** Expert-level judgment in Philosophical Research and Scholarly Dialogue, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Philosophical Research and Scholarly Dialogue work with portfolio-ready proof.
